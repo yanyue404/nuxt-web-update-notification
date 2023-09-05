@@ -1,6 +1,6 @@
 {
   "name": "nuxt-web-update-notification",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Detect webpage updates and notify user to reload. support Nuxt.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
