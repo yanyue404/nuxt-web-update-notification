@@ -171,3 +171,5 @@ export default function WebUpdateNotificationPlugin(moduleOptions = {}) {
     }
   });
 }
+
+module.exports.meta = require('../package.json')
