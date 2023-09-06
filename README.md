@@ -45,3 +45,4 @@ export default {
 ## Thanks
 
 - [plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification)
+- [网页重新部署，通知用户-最佳实践](https://juejin.cn/post/7209234917288886331)
